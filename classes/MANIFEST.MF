@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.6.0_65-b14-466.1-11M4716 (Apple Inc.)
+Implementation-Title: http://www.youngfriend.com.cn
+
